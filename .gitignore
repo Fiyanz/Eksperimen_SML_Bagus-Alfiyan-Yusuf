@@ -1,0 +1,9 @@
+.venv/
+uv.lock
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+red_chili_pepper_pests_preprocessed/
+mlruns/
+.keras
+*.keras
