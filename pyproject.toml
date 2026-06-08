@@ -13,4 +13,5 @@ dependencies = [
     "nbconvert>=7.17.1",
     "ipykernel>=7.2.0",
     "jupyter>=1.1.1",
+    "mlflow==2.19.0",
 ]
